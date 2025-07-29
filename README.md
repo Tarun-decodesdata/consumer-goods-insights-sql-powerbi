@@ -86,7 +86,7 @@ represent one specific requests,helping management easily explore trends,perform
 
 If you liked this project or have feedback, feel free to connect:
 
-- 🔗 [LinkedIn](www.linkedin.com/in/tarun-kumar-senapati-2a9407295)
+- 🔗 [[LinkedIn](https://www.linkedin.com/in/tarun-kumar-senapati-2a9407295)] 
 
 
 
